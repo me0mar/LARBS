@@ -8,7 +8,7 @@
 
 dotfilesrepo="https://github.com/lukesmithxyz/voidrice.git"
 progsfile="https://raw.githubusercontent.com/LukeSmithxyz/LARBS/master/static/progs.csv"
-aurhelper="yay"
+aurhelper="paru"
 repobranch="master"
 export TERM=ansi
 
